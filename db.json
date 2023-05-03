@@ -831,5 +831,14 @@
             ],
             "id": 59
         }
+    ],
+    "employee": [
+        {
+          "name": "Nihira techiees",
+          "email": "nihiratechiees@gmail.com",
+          "phone": "98899090",
+          "active": true,
+          "id": 1
+        }
     ]
 }
